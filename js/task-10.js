@@ -26,7 +26,6 @@ function createBoxes(amount) {
   }
 }
 
-
 btnDestroyBoxes.addEventListener("click", () => {
   boxes.innerHTML = "";
   })
